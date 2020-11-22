@@ -43,7 +43,7 @@ a {
 .logos{
 	margin: auto;
 	width:90%;
-	max-height: 10%;
+	/*max-height: 30%;*/
 	max-width: 200px;
 	height: auto;
 }
@@ -303,13 +303,13 @@ footer{
 .about img{
 	width: 70%;
 	height: 70%;
-	margin: 0 15% 5% 15%;
+	margin: 5% 15% 5% 15%;
 }
 
 .about p{
 	text-align: center;
 	color: white;
-	font-size: 2.5rem;
+	font-size: 1.5rem;
 }
 @media (max-width: 768px){
 
